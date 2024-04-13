@@ -12,10 +12,9 @@
 
 module Set2a where
 
-import Mooc.Todo
-
 -- Some imports you'll need. Don't add other imports :)
 import Data.List
+import Mooc.Todo
 
 ------------------------------------------------------------------------------
 -- Ex 1: Define the constant years, that is a list of the values 1982,
